@@ -7,7 +7,10 @@
 *May you find forgiveness for yourself and forgive others.*  
 *May you share freely, never taking more than you give".* (c) sqlite
 
+<br/><br/>
 
-- 🧚‍♀️ Pronouns: she/her
+Check out my beautiful [3dViewer project](https://github.com/GrusnyDance/3dViewer)
+
+- 👫 Pronouns: she/her
 - 📞 No contacts available, send pr to batman
 
