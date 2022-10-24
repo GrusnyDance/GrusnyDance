@@ -10,6 +10,6 @@
 **Check out my [3dViewer project](https://github.com/GrusnyDance/3dViewer)** 🔮 
 <br/><br/>
 
-- 👫 Pronouns: she/her
+- 👫 She/her
 - 📬 No contacts available, send pr to batman
 
